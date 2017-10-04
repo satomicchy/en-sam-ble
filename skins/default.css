@@ -216,7 +216,7 @@ ul.clients li:hover {
 
 /* footer */
 footer{
-	background:#c1bebd url("../img/footer_bg.png") no-repeat;
+	background-color:#c1bebd;
 	background-position : right -500px bottom -200px;
 }
 #sub-footer{

@@ -431,6 +431,10 @@ dd {
   .dl-horizontal dd.footer-mail {
     margin-left: 20px;
   }
+
+  .dl-horizontal dd.credit {
+    margin-left: 0;
+  }
 }
 
 

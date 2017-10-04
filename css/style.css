@@ -1529,7 +1529,7 @@ ul.time-post li.time{
 
 footer{
 	padding:50px 0 0 0;
-	color:#f8f8f8;
+	color:#f6f4ed;
 }
 
 footer a {
@@ -2005,28 +2005,4 @@ article img.pull-right, article .align-right{
 ============================= */
 #content i {
 	color: #82c434;
-}
-
-.wide-bg-left,
-.wide-bg-right {
-	display: block;
-	opacity: 0.7;
-	position: absolute;
-}
-
-.wide-bg-left {
-	top: 130px;
-	left: -150px;
-}
-
-.wide-bg-right {
-	top: 80px;
-	right: -150px;
-}
-
-@media (max-width: 1700px) {
-	.wide-bg-left,
-	.wide-bg-right {
-		display: none;
-	}
 }

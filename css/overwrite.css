@@ -418,6 +418,26 @@ dd {
   margin-left: 180px;
 }
 
+@media (max-width: 767px) {
+  .dl-horizontal dt {
+    width: auto;
+    text-align: left;
+  }
+  
+  .dl-horizontal dd {
+    margin-left: 60px;
+  }
+
+  .dl-horizontal dd.footer-mail {
+    margin-left: 20px;
+  }
+
+  .dl-horizontal dd.credit {
+    margin-left: 0;
+  }
+}
+
+
 .media{
   margin-top: 0;
   margin-bottom: 30px;

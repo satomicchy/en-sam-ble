@@ -4,7 +4,7 @@
 /* === prettify === */
 @import url('../js/google-code-prettify/prettify.css');
 /* === fontawesome === */
-@import url('font-awesome.css');
+@import url('font-awesome-all.css');
 /* === custom icon === */
 @import url('custom-fonts.css');
 /* ==== overwrite bootstrap standard ==== */
@@ -2004,5 +2004,5 @@ article img.pull-right, article .align-right{
 22. Others. 
 ============================= */
 #content i {
-	color: #82c434;
+	color: #68A4C4;
 }
